@@ -47,13 +47,18 @@ Kullanıcı adı ve şifre ile girilebilen bir ekrandan da yetkili kullanıcıla
 
 - React hooks
 - Router (react-router/ reach router / etc)
-- Context API
-- Form management library (react-hook-form(önerilen) / formik / etc)
-- Validation library (yup(önerilen), joi, etc)
-- Tests (Unit test zorunlu, e2e opsiyonel)
+- Redux (Context API'da kullanabilirsiniz)
+- Form management library (react-hook-form / formik / etc)
+- UI library kullanmamalisiniz. 
+- Validation library (yup, joi, etc)
+- Tests (Unit test zorunlu)
 - Uygulamanız kesinlikle bir servise deploy edilmiş olacak ve public link readme içinde yer alacak (netlify, vercel gibi)
 - Open source
 - Eslint
+- Folder structure
+- github commitlerinin gozukmesi gerekmekte. Lutfen bu konuya hassasiyet gosterelim,
+ tum sayfalarin tek commitde bulunan repolardan uzak duralim. Puanlara buna gore yapilacaktir.
+
 
 
 ##### Dikkat edelim
